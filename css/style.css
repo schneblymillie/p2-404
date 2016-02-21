@@ -10,7 +10,7 @@ body {
 body img{
   width: 30%; 
   height: 30%; 
-  min-width: 0%; 
+  min-width: 331px; 
   min-heigth: 0%; 
   margin-right: auto; 
   margin-left: auto;
