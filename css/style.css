@@ -53,3 +53,7 @@ section .small-font {
   font-weight: 300;
   letter-spacing: .2em; 
 }
+
+.homepage:hover {
+  color: lightgrey; 
+}
